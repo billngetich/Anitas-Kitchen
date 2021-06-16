@@ -1,0 +1,227 @@
+
+#line1 {
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 70px;
+    height: 3px;
+    text-align: center;
+}
+#line2 {
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 70px;
+    height: 3px;
+    text-align: center;
+}
+#line3 {
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 70px;
+    height: 3px;
+    text-align: center;
+}
+#front {
+    background-image: url(/Assets/landing.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    text-align: center;
+}
+#number1 p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin : 10px;
+}
+#second {
+    display: flex;
+    text-align:center;
+}
+#selection {
+    display: flex;
+    flex-direction: column;
+}
+#happy hour {
+    position: relative;
+    background-color: lightgrey;
+    width: 300px;
+}
+#photos {
+    position: relative;
+    display: flex;
+}
+.number2 {
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+}
+#selection {
+    display: flex;
+
+}
+.photos {
+    display: flex;
+}
+#picture1 {
+    background-image: url("/Assets/breakfast.jpg");
+    height: 300px;
+    width: 300px;
+    margin-left: 10%;
+}
+#picture2 {
+    background-image: url('/Assets/lunch.jpg');
+    height: 300px;
+    width: 300px;
+}
+#picture3 {
+    background-image: url('/Assets/dinner.jpg');
+    height: 300px;
+    width: 300px;
+}
+.meals {
+    color: whitesmoke;
+    text-align: center;
+    font-size: medium;
+    height: 100px;
+    top: -40px;
+}
+#number3 {
+    display: flex;
+    padding: 5%;
+}
+#picture4 {
+    border: 30px solid white;
+    margin-left: 100px;
+
+}
+#number4 {
+    display: flex;
+    padding: 5%;
+}
+#picture5 {
+    display: flex;
+    margin-right: 100px;
+}
+#cursor1 {
+    display: flex;
+    color: rgb(238, 85, 39);
+    border: 2px solid rgb(238, 85, 39);
+    width: 130px;
+}
+#arrow1 {
+    font-size: 200%;
+}
+#cursor2 {
+    display: flex;
+    color:rgb(238, 85, 39);
+    border: 2px solid rgb(238, 85, 39);
+    width: 130px;
+}
+#arrow2 {
+    font-size: 200%;
+}
+#number5{
+    background-image: url(./Assets/foodsBg.jpg);
+    background-size: 100% 100%;
+    background-color: rgba(128, 128, 128, 0.801);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 80px;
+}
+#foodstuff {
+    box-sizing: border-box;
+    height: auto;
+    padding: 30px;
+    padding-bottom: 0%;
+}
+.mine {
+    background-color: whitesmoke;
+}
+#food {
+    margin: 0%;
+    width: 100%;
+    border-collapse: collapse;
+}
+tr {
+    text-align: center;
+}
+th {
+    background-color: gainsboro;
+    border: 1px solid rgb(209, 203, 203);
+    height: 50px;
+    padding: 10px;
+    width: 100px;
+}
+#happyhour {
+    border: 1px solid gray;
+    width: 100px;
+}
+#partytime {
+    border: 1px solid gray;
+    width: 100px;
+    h
+
+}
+#chakula {
+    color:rgb(238, 85, 39);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+}
+#number6 {
+    display: flex;
+    margin-left: 200px;
+    padding: 6%;
+    width: 900px;
+    box-shadow: 3px 3px 5px rgb(156, 156, 156);
+    text-align: center;
+    margin: 20%;
+}
+.arrrow
+}
+#ourcustomers {
+    width: 400px;
+}
+#about{
+    text-align: center; 
+}
+#number7 {
+    background-image: url(/Assets/subscribe.jpg);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: ;
+}
+#both {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+#email {
+    border:1px solid rgb(156, 156, 156);
+    background-color: rgba(128, 128, 128, 0.384);
+    text-align: left;
+    width: 300px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+}
+#subscribe {
+    border: 1px solid rgb(238, 85, 39);
+    background-color: rgb(238, 85, 39);
+    width: 100px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+}
+#shortnote {
+    margin-top: 50px;
+}
+#number8 {
+    background-color: rgb(238, 85, 39);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+
+}
