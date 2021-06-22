@@ -207,6 +207,9 @@ th {
 #ourcustomers {
     width: 400px;
 }
+#customers {
+    display: flex;
+}
 #about{
     text-align: center; 
 }
