@@ -210,6 +210,11 @@ th {
 #customers {
     display: flex;
 }
+.arrow2{
+    color: rgb(238, 85, 39);
+    font-weight: bold;
+    font-size: xx-large;
+}
 #about{
     text-align: center; 
 }
