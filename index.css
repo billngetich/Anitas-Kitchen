@@ -24,7 +24,7 @@
     text-align: center;
 }
 #front {
-    background-image: url(/Assets/landing.jpg);
+    background-image: url("./Assets/landing.jpg");
     background-repeat: no-repeat;
     background-size: auto;
     text-align: center;
@@ -75,20 +75,20 @@
     display: flex;
 }
 #picture1 {
-    background-image: url("/Assets/breakfast.jpg");
+    background-image: url("./Assets/breakfast.jpg");
     height: 250px;
     width: 300px;
     margin-left: 0%;
     text-align: center;
 }
 #picture2 {
-    background-image: url('/Assets/lunch.jpg');
+    background-image: url("./Assets/lunch.jpg");
     height: 250px;
     width: 300px;
     background-color: rgb(255, 255, 255);
 }
 #picture3 {
-    background-image: url('/Assets/dinner.jpg');
+    background-image: url("./Assets/dinner.jpg");
     height: 250px;
     width: 300px;
 }
@@ -139,7 +139,7 @@
     font-size: 200%;
 }
 #number5{
-    background-image: url(./Assets/foodsBg.jpg);
+    background-image: url("./Assets/foodsBg.jpg");
     background-size: 100% 100%;
     background-color: rgba(128, 128, 128, 0.801);
     background-repeat: no-repeat;
@@ -211,7 +211,7 @@ th {
     text-align: center; 
 }
 #number7 {
-    background-image: url(/Assets/subscribe.jpg);
+    background-image: url("./Assets/subscribe.jpg");
     text-align: center;
     color: rgb(255, 255, 255);
     margin-top: ;
